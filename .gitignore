@@ -1,0 +1,5 @@
+!gradle-wrapper.jar
+!src/**/build/
+**/.idea/
+**/build/
+.gradle
